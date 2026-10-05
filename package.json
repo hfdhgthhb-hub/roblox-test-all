@@ -1,0 +1,11 @@
+{
+  "name": "roblox-test-all",
+  "version": "1.0.0",
+  "type": "module",
+  "engines": {
+    "node": "22.x"
+  },
+  "dependencies": {
+    "undici": "^6.0.0"
+  }
+}
